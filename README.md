@@ -2,7 +2,7 @@
 
 Hi, I'm Fatih Mücahid Akgün.
 
-<img align="center" alt="GIF" src="https://github.com/fatih-mucahid-akgun/fatih-mucahid-akgun/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/fatih-mucahid-akgun/fatih-mucahid-akgun/blob/main/code.gif?raw=true" width="300" height="220" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatih-mucahid-akgun" alt="fatih-mucahid-akgun" /> </p>
 
