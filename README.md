@@ -12,7 +12,7 @@
 [![Mail Badge](https://img.shields.io/badge/mchdakgn@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mchdakgn@hotmail.com)](mailto:mchdakgn@hotmail.com)
 
 📈 My Github Stats
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=fatih-mucahid-akgun&show_icons=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=fatih-mucahid-akgun&show_icons=true">
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
