@@ -1,5 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=fatih-mucahid-akgun&show_icons=true">
+
 # Merhaba, ben Fatih Mücahid Akgün! 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatih-mucahid-akgun" alt="fatih-mucahid-akgun" /> </p>
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mchdakgn)
