@@ -14,7 +14,7 @@
 
 📈 My Github Stats
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=fatih-mucahid-akgun&show_icons=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=fatih-mucahid-akgun&show_icons=true"width="400" height="320" />
 
 
 
