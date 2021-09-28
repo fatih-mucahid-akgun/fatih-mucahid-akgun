@@ -4,11 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatih-mucahid-akgun" alt="fatih-mucahid-akgun" /> </p>
 
+
+
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mchdakgn)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-mucahid-akgun/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fatih-mucahid-akgun)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatihmucahid/)
 [![Mail Badge](https://img.shields.io/badge/mchdakgn@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mchdakgn@hotmail.com)](mailto:mchdakgn@hotmail.com)
+
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
