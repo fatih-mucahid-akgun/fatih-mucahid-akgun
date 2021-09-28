@@ -11,7 +11,9 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatihmucahid/)
 [![Mail Badge](https://img.shields.io/badge/mchdakgn@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mchdakgn@hotmail.com)](mailto:mchdakgn@hotmail.com)
 
+
 📈 My Github Stats
+
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=fatih-mucahid-akgun&show_icons=true">
 
 
