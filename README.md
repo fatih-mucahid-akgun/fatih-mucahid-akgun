@@ -10,6 +10,9 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatihmucahid/)
 [![Mail Badge](https://img.shields.io/badge/mchdakgn@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mchdakgn@hotmail.com)](mailto:mchdakgn@hotmail.com)
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 <!--
 **fatih-mucahid-akgun/fatih-mucahid-akgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
